@@ -15,23 +15,25 @@ Relevant links:
 
 ### `gold/01_ner`: Gold NER annotations for Diary 47 / 48
 
-day: day in diary, number starting from 1
-start_span: index of first character in original span in the diary entry, 0-indexed
-end_span: index of last character in original span + 1 in the diary entry, 0-indexed
-original_entity: the span of text captured by `entry_contents[start_span : end_span]`
-resolved_entity: the span of text that the original span is resolved to, such that the same location referent has the same resolved span
+- day: day in diary, number starting from 1
+- start_span: index of first character in original span in the diary entry, 0-indexed
+- end_span: index of last character in original span + 1 in the diary entry, 0-indexed
+- original_entity: the span of text captured by `entry_contents[start_span : end_span]`
+- resolved_entity: the span of text that the original span is resolved to, such that the same location referent has the same resolved span
 
 
 ### `gold/02_geo`: Gold geocoordinates for Diary 47 / 48
 
-day: day in diary, number
-start_span: index of first character of first occurring original span in the diary entry, 0-indexed
-end_span: index of last character of first occurring original span + 1 in the diary entry, 0-indexed
-resolved_entity: the span of text that the original span is resolved to, such that the same location referent has the same resolved span
-lat: latitude in decimal degrees
-lng: longitude in decimal degrees
+- day: day in diary, number starting from 1
+- start_span: index of first character of first occurring original span in the diary entry, 0-indexed
+- end_span: index of last character of first occurring original span + 1 in the diary entry, 0-indexed
+- resolved_entity: the span of text that the original span is resolved to, such that the same location referent has the same resolved span
+- lat: latitude in decimal degrees
+- lng: longitude in decimal degrees
+
 
 Each row has a unique resolved entity name, i.e., a unique location.
+
 Missing data is empty for the latitude and longitude.
 
 
