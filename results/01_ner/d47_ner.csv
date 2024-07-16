@@ -1,0 +1,1672 @@
+day,start_span,end_span,original_entity,resolved_entity
+1,870,877,Baghdad,Baghdad
+2,128,135,Baghdad,Baghdad
+2,139,145,Basreh,Basreh
+2,302,309,Baghdad,Baghdad
+2,366,375,Gherrarah,Gherrara
+2,464,475,Diala river,Diala River
+2,494,503,Ctesiphon,Ctesiphon
+2,539,544,Ledje,Ledje
+2,738,745,England,England
+2,842,848,Basreh,Basreh
+2,889,899,Marseilles,Marseilles
+2,1074,1082,Constple,Constantinople
+2,1216,1222,Basreh,Basreh
+2,1302,1308,France,France
+2,1380,1386,Basreh,Basreh
+2,1423,1429,London,London
+2,1505,1515,Baghdadieh,Baghdadieh
+2,1538,1545,Azizieh,Azizieh
+2,1582,1588,Toweel,Towil
+3,75,81,Toweel,Towil
+3,99,105,Memlah,Memlah
+3,128,132,Coot,Coot
+3,284,293,Aboo Dood,Aboo Dood
+4,123,133,Ali Gherbi,Ali Gherbi
+4,251,256,Amara,Amara
+4,373,378,Amara,Amara
+4,437,448,Kalat Saleh,Kalat Saleh
+5,39,44,Paris,Paris
+5,179,184,Amara,Amara
+5,201,206,Azair,Azair
+5,289,294,Gorna,Gorna
+5,518,524,Basreh,Basreh
+5,1309,1314,Paris,Paris
+5,1662,1671,Marsilles,Marseilles
+5,1934,1944,Marseilles,Marseilles
+5,1990,2000,Marseilles,Marseilles
+5,2065,2072,Bushire,Bushire
+6,223,228,Paris,Paris
+6,692,698,Basreh,Basreh
+6,702,709,Baghdad,Baghdad
+6,1003,1008,Gorna,Gorna
+7,79,88,Ghumeyjeh,Ghumeyjeh Canal
+7,292,299,Abdulla,Abdulla
+7,303,306,Ali,Ali
+7,585,590,Amara,Amara
+7,696,701,Amara,Amara
+8,85,95,Ali Gherbi,Ali Gherbi
+8,205,210,Amara,Amara
+8,250,261,Sheikh Saad,Sheikh Saad
+8,293,297,Coot,Coot
+9,57,63,Memlah,Memlah
+9,84,91,Sheresh,Sheresh
+9,232,236,Coot,Coot
+9,269,276,Azizieh,Azizieh
+9,350,365,Baghdadieh Fort,Baghdadieh
+10,80,89,Ctesiphon,Ctesiphon
+10,107,112,Diala,Diala River
+10,136,145,Gherrarah,Gherrara
+10,536,542,Hwedir,Howedir
+13,442,448,Europe,Europe
+14,530,536,Vienna,Vienna
+14,582,589,Howedir,Howedir
+15,329,337,Damascus,Damascus
+15,376,380,Rome,Rome
+15,596,601,Paris,Paris
+16,54,61,Baghdad,Baghdad
+16,65,71,Basrah,Basreh
+16,381,390,Rustumyeh,Rustumyeh
+16,481,486,Diala,Diala River
+16,504,513,Ctesiphon,Ctesiphon
+16,535,545,Baghdadieh,Baghdadieh
+16,985,990,Towil,Towil
+17,211,217,Memlah,Memlah
+17,248,255,Bughela,Bughela
+17,328,332,Coot,Coot
+17,472,481,Ghumeyjeh,Ghumeyjeh Canal
+17,678,689,Sheikh Saad,Sheikh Saad
+18,92,103,Sheikh Saad,Sheikh Saad
+18,148,158,Ali Gherbi,Ali Gherbi
+18,443,448,Amara,Amara
+18,608,614,Basreh,Basreh
+18,679,684,Amara,Amara
+18,934,939,Amara,Amara
+18,982,994,Kalat Saleh~,Kalat Saleh
+19,124,129,Amara,Amara
+19,254,259,Azair,Azair
+19,293,298,Amara,Amara
+19,386,391,Gorna,Gorna
+19,481,486,Gorna,Gorna
+19,494,503,Euphrates,Euphrates
+19,566,571,Gorna,Gorna
+19,600,606,Maghil,Maghil
+19,822,828,Basreh,Basreh
+20,158,164,Bombay,Bombay
+20,201,208,Baghdad,Baghdad
+20,392,396,Coot,Coot
+20,413,418,Tello,Tello
+20,754,762,Kerbella,Kerbella
+20,1052,1058,Basreh,Basreh
+20,1062,1069,Baghdad,Baghdad
+21,74,79,Gorna,Gorna
+21,142,147,Azair,Azair
+21,249,260,Kalat Saleh,Kalat Saleh
+21,463,470,Baghdad,Baghdad
+21,483,488,Jedda,Jedda
+21,542,556,Constantinople,Constantinople
+21,583,589,Basreh,Basreh
+21,890,895,Amara,Amara
+22,124,129,Amara,Amara
+22,211,221,Ali Gherbi,Ali Gherbi
+22,276,287,Sheikh Saad,Sheikh Saad
+22,358,362,Coot,Coot
+22,415,419,Coot,Coot
+22,466,471,Mehdi,Mehdi
+23,95,101,Memlah,Memlah
+23,124,128,Coot,Coot
+23,162,169,Azizieh,Azizieh
+23,231,246,Baghdadieh Fort,Baghdadieh
+23,574,581,Baghdad,Baghdad
+23,604,610,Basreh,Basreh
+24,125,139,Joorf el Batta,Joorf El Batta
+24,249,258,Ctesiphon,Ctesiphon
+24,295,300,Diala,Diala River
+24,339,347,Gherrara,Gherrara
+24,384,391,Baghdad,Baghdad
+24,474,480,Aleppo,Aleppo
+25,528,534,Mossul,Mossul
+29,270,278,Damascus,Damascus
+29,344,350,Novara,Novara
+30,275,282,Baghdad,Baghdad
+30,286,292,Basreh,Basreh
+30,519,530,Diala River,Diala River
+30,591,600,Ctesiphon,Ctesiphon
+30,777,783,Basreh,Basreh
+30,1174,1184,Baghdadieh,Baghdadieh
+30,1212,1219,Azizieh,Azizieh
+31,167,173,Memlah,Memlah
+31,232,241,Umel Ajaj,Umel Ajaj
+31,341,345,Coot,Coot
+31,437,443,Bombay,Bombay
+32,82,86,Coot,Coot
+32,263,273,Ali Gherbi,Ali Gherbi
+32,291,302,Ali Sherghi,Ali Sherghi
+32,425,430,Amara,Amara
+33,53,58,Amara,Amara
+33,183,188,Amara,Amara
+33,256,262,Basreh,Basreh
+33,316,321,Azair,Azair
+33,344,349,Gorna,Gorna
+33,433,439,Basreh,Basreh
+33,500,509,Euphrates,Euphrates
+33,520,525,Sweib,Sweib
+33,569,575,Basreh,Basreh
+33,649,656,Baghdad,Baghdad
+34,236,242,Basreh,Basreh
+34,622,628,Bombay,Bombay
+34,1041,1050,Port Said,Port Said
+34,1411,1417,Bombay,Bombay
+34,1488,1494,Basreh,Basreh
+34,1498,1505,Baghdad,Baghdad
+34,1613,1619,Basreh,Basreh
+35,73,78,Azair,Azair
+35,188,199,Kalat Saleh,Kalat Saleh
+35,378,384,Basreh,Basreh
+35,495,501,France,France
+35,506,512,Bombay,Bombay
+35,780,785,Amara,Amara
+35,887,892,Amara,Amara
+36,99,109,Ali Gherbi,Ali Gherbi
+36,160,165,Amara,Amara
+36,382,386,Coot,Coot
+37,165,174,Umel Ajaj,Umel Ajaj
+37,203,207,Coot,Coot
+37,264,267,Haȋ,Haȋ
+37,296,302,Memlah,Memlah
+37,382,388,Brenij,Brenij
+37,395,403,Humenyeh,Humenyeh
+37,497,504,Azizieh,Azizieh
+37,522,537,Baghdadieh Fort,Baghdadieh
+38,113,118,Diala,Diala River
+38,205,213,Gherrara,Gherrara
+38,229,236,Baghdad,Baghdad
+38,598,605,Baghdad,Baghdad
+39,179,183,Rome,Rome
+39,335,342,Howedir,Howedir
+40,291,298,Howedir,Howedir
+42,437,443,Basreh,Basreh
+42,624,630,Europe,Europe
+43,230,239,Port Said,Port Said
+43,277,285,Damascus,Damascus
+44,133,140,Baghdad,Baghdad
+44,144,150,Basreh,Basreh
+44,419,430,Diala river,Diala River
+44,447,456,Ctesiphon,Ctesiphon
+44,657,661,Coot,Coot
+44,797,802,Swera,Swera
+44,972,982,Baghdadieh,Baghdadieh
+44,1005,1012,Azizieh,Azizieh
+44,1063,1077,Constantinople,Constantinople
+44,1106,1110,Suez,Suez
+44,1534,1540,Toweel,Towil
+45,79,85,Toweel,Towil
+45,103,109,Memlah,Memlah
+45,176,180,Coot,Coot
+45,263,267,Coot,Coot
+45,309,320,Sheikh Saad,Sheikh Saad
+46,73,84,Sheikh Saad,Sheikh Saad
+46,193,203,Ali Gherbi,Ali Gherbi
+46,316,321,Amara,Amara
+47,72,77,Amara,Amara
+47,256,261,Azair,Azair
+47,318,323,Gorna,Gorna
+47,415,420,Gorna,Gorna
+47,549,555,Basreh,Basreh
+47,920,926,Basreh,Basreh
+48,395,400,Gorna,Gorna
+48,512,518,Bombay,Bombay
+48,548,553,Paris,Paris
+48,1082,1091,Port Said,Port Said
+48,1217,1222,Paris,Paris
+48,1439,1444,Paris,Paris
+49,368,376,Shaebyeh,Shaebyeh
+49,596,606,Marseilles,Marseilles
+49,764,770,Basreh,Basreh
+49,774,781,Baghdad,Baghdad
+49,899,905,Basreh,Basreh
+49,973,978,Gorna,Gorna
+50,58,63,Azair,Azair
+50,173,184,Kalat Saleh,Kalat Saleh
+50,374,381,England,England
+50,475,488,Abool Khassib,Abool Khassib
+50,515,520,Amara,Amara
+50,682,687,Amara,Amara
+51,108,118,Ali Gherbi,Ali Gherbi
+51,159,164,Amara,Amara
+51,259,263,Coot,Coot
+51,365,374,Haî river,Haî River
+51,581,584,Hai,Hai
+51,588,593,Tello,Tello
+51,664,668,Coot,Coot
+52,154,161,Bughela,Bughela
+52,265,270,Kweit,Kweit
+52,613,617,Coot,Coot
+52,645,651,Memlah,Memlah
+52,715,722,Sheresh,Sheresh
+52,985,1000,Baghdadieh Fort,Baghdadieh
+53,55,64,Ctesiphon,Ctesiphon
+53,144,149,Diala,Diala River
+53,179,187,Gherrara,Gherrara
+54,664,667,Hit,Hit
+54,670,679,Saglawyeh,Saglawyeh
+54,700,709,Euphrates,Euphrates
+56,203,209,Mossul,Mossul
+56,230,236,Aleppo,Aleppo
+57,280,290,Marseilles,Marseilles
+57,339,344,Paris,Paris
+58,111,118,Baghdad,Baghdad
+58,122,128,Basreh,Basreh
+58,362,370,Kerradah,Kerradah
+58,459,467,Gherrara,Gherrara
+58,552,557,Diala,Diala River
+58,646,655,Ctesiphon,Ctesiphon
+58,968,978,Baghdadieh,Baghdadieh
+58,1093,1100,Azizieh,Azizieh
+58,1133,1139,Brenij,Brenij
+58,1222,1228,Toweel,Towil
+59,407,413,Toweel,Towil
+59,532,538,Memlah,Memlah
+59,567,574,Bughela,Bughela
+59,661,665,Coot,Coot
+59,959,963,Coot,Coot
+59,1096,1107,Sheikh Saad,Sheikh Saad
+59,1156,1161,Amara,Amara
+60,66,77,Sheikh Saad,Sheikh Saad
+60,213,232,Lohristan Mountains,Lohristan Mountains
+60,282,292,Ali Gherbi,Ali Gherbi
+60,552,557,Amara,Amara
+60,709,714,Amara,Amara
+60,830,841,Kalat Saleh,Kalat Saleh
+61,90,95,Amara,Amara
+61,211,216,Azair,Azair
+61,253,258,Gorna,Gorna
+61,384,390,Basreh,Basreh
+61,636,642,Bombay,Bombay
+62,203,209,Bombay,Bombay
+62,755,761,Basreh,Basreh
+62,765,772,Baghdad,Baghdad
+62,912,918,Basure,Basure
+62,1147,1153,Lebany,Lebany
+62,1218,1223,Kweit,Kweit
+62,1226,1231,Katif,Katif
+63,66,71,Gorna,Gorna
+63,435,446,Kalat Saleh,Kalat Saleh
+63,473,478,Amara,Amara
+63,523,530,Baghdad,Baghdad
+63,636,641,Amara,Amara
+64,136,141,Amara,Amara
+64,173,183,Ali Gherbi,Ali Gherbi
+64,607,611,Coot,Coot
+64,742,749,Baghdad,Baghdad
+64,847,851,Coot,Coot
+64,871,875,Coot,Coot
+65,98,104,Memlah,Memlah
+65,124,128,Coot,Coot
+65,347,351,Coot,Coot
+65,427,433,Basreh,Basreh
+65,488,496,Sheresh~,Sheresh
+65,834,841,Azizieh,Azizieh
+65,1075,1085,Baghdadieh,Baghdadieh
+66,124,132,Hudeitha,Hudeitha
+66,211,219,Hudeitha,Hudeitha
+66,268,277,Ctesiphon,Ctesiphon
+66,409,418,Ctesiphon,Ctesiphon
+66,703,714,Diala river,Diala River
+66,749,758,Gherrarah,Gherrara
+67,268,275,Baghdad,Baghdad
+67,968,973,Cairo,Cairo
+67,1045,1051,London,London
+67,1497,1504,Baghdad,Baghdad
+67,1517,1523,Europe,Europe
+68,250,255,Paris,Paris
+68,351,358,Baghdad,Baghdad
+68,696,701,Paris,Paris
+72,207,212,Amara,Amara
+72,359,364,Amara,Amara
+72,513,519,London,London
+72,815,822,Baghdad,Baghdad
+72,826,832,Basreh,Basreh
+72,1009,1016,Baghdad,Baghdad
+72,1269,1273,Coot,Coot
+72,1308,1318,Manchester,Manchester
+72,1382,1388,Basreh,Basreh
+72,1406,1411,Amara,Amara
+72,1557,1562,Amara,Amara
+72,1585,1590,Diala,Diala River
+72,1710,1716,Basreh,Basreh
+72,1864,1873,Ctesiphon,Ctesiphon
+72,1903,1908,Ledje,Ledje
+73,179,184,Ledje,Ledje
+73,238,243,Amara,Amara
+73,284,288,Coot,Coot
+73,291,297,Basreh,Basreh
+73,332,347,Baghdadieh Fort,Baghdadieh
+73,413,419,Raddat,Raddat
+73,476,483,Baghdad,Baghdad
+73,630,637,Azizieh,Azizieh
+73,744,750,Europe,Europe
+73,893,900,Baghdad,Baghdad
+73,956,962,Hwedir,Howedir
+73,1185,1191,Memlah,Memlah
+73,1213,1221,Hamrayah,Hamraya
+74,117,124,Hamraya,Hamraya
+74,191,201,Um el Ajaj,Umel Ajaj
+74,297,301,Coot,Coot
+74,456,460,Coot,Coot
+74,592,601,Aboo Dood,Aboo Dood
+74,609,620,Sheikh Saad,Sheikh Saad
+75,98,108,Ali Gherbi,Ali Gherbi
+75,155,160,Amara,Amara
+75,333,338,Amara,Amara
+75,400,412,Kalat Saleh~,Kalat Saleh
+76,240,245,Amara,Amara
+76,273,278,Azair,Azair
+76,352,359,Baghdad,Baghdad
+76,509,514,Gorna,Gorna
+76,588,594,Kteban,Kteban
+76,616,622,Basreh,Basreh
+76,908,914,Basreh,Basreh
+76,1096,1103,Baghdad,Baghdad
+76,1235,1240,Cairo,Cairo
+77,294,299,Katif,Katif
+77,427,431,Kwet,Kweit
+77,514,520,Lebany,Lebany
+77,670,676,Basreh,Basreh
+77,680,687,Baghdad,Baghdad
+78,264,275,Kalat Saleh,Kalat Saleh
+78,795,800,Amara,Amara
+78,919,924,Amara,Amara
+79,133,138,Amara,Amara
+79,316,326,Ali Gherbi,Ali Gherbi
+79,510,519,Aboo Dood,Aboo Dood
+79,612,623,Sheikh Saad,Sheikh Saad
+79,793,798,Amara,Amara
+79,990,996,Basreh,Basreh
+79,1029,1036,Baghdad,Baghdad
+79,1102,1108,Basreh,Basreh
+79,1167,1173,Bombay,Bombay
+80,87,91,Coot,Coot
+80,253,260,Babylon,Babylon
+80,265,271,Shetra,Shetra
+80,388,394,Shetra,Shetra
+80,523,527,Coot,Coot
+80,622,626,Coot,Coot
+80,921,930,Umel Ajaj,Umel Ajaj
+80,1375,1379,Umel,Umel
+81,106,113,Azizieh,Azizieh
+81,160,175,Baghdadieh Fort,Baghdadieh
+81,450,454,Ledj,Ledje
+82,116,125,Ctesiphon,Ctesiphon
+82,160,168,Gusseiba,Gusseiba
+82,239,248,Ctesiphon,Ctesiphon
+82,309,317,Gusseiba,Gusseiba
+82,334,345,Diala river,Diala River
+82,377,385,Gherrara,Gherrara
+82,887,892,Cairo,Cairo
+82,1000,1005,Paris,Paris
+82,1098,1103,Paris,Paris
+82,1242,1247,Egypt,Egypt
+82,1257,1262,Paris,Paris
+84,408,414,Vienna,Vienna
+84,1040,1047,Germany,Germany
+85,531,538,Germany,Germany
+86,78,85,Baghdad,Baghdad
+86,89,95,Basreh,Basreh
+86,252,263,Diala river,Diala River
+86,291,300,Ctesiphon,Ctesiphon
+86,583,593,Baghdadieh,Baghdadieh
+86,691,697,Toweel,Towil
+87,190,199,Mahomerah,Mahomera
+87,516,521,Towil,Towil
+87,584,590,Memlah,Memlah
+87,719,723,Coot,Coot
+87,877,883,Shatra,Shatra
+87,911,915,Coot,Coot
+87,966,975,Aboo Dood,Aboo Dood
+88,134,144,Ali Gherbi,Ali Gherbi
+88,171,176,Amara,Amara
+88,322,327,Amara,Amara
+88,403,415,Kalat Saleh~,Kalat Saleh
+89,111,116,Amara,Amara
+89,228,233,Gorna,Gorna
+89,257,263,Maghil,Maghil
+89,911,917,Bombay,Bombay
+89,935,940,India,India
+89,976,982,Bombay,Bombay
+90,373,379,Basreh,Basreh
+90,973,980,Bushire,Bushire
+91,285,291,Maghil,Maghil
+91,414,419,Ahwaz,Ahwaz
+91,422,430,Shushter,Shushter
+91,469,476,England,England
+91,534,540,Maghil,Maghil
+91,830,835,Amara,Amara
+91,847,853,Basreh,Basreh
+91,917,925,Constple,Constantinople
+91,1011,1018,Baghdad,Baghdad
+91,1295,1301,Basreh,Basreh
+91,1305,1312,Baghdad,Baghdad
+91,1563,1569,Maghil,Maghil
+91,1674,1679,Gorna,Gorna
+92,82,87,Azair,Azair
+92,324,329,Amara,Amara
+92,367,378,Kalat Saleh,Kalat Saleh
+92,401,406,Amara,Amara
+92,576,581,Amara,Amara
+93,71,81,Ali Gherbi,Ali Gherbi
+93,188,193,Amara,Amara
+93,280,291,Sheikh Saad,Sheikh Saad
+93,503,507,Coot,Coot
+93,702,706,Coot,Coot
+94,90,96,Memlah,Memlah
+94,138,145,Deboony,Deboony
+94,376,380,Coot,Coot
+94,492,499,Azizieh,Azizieh
+94,521,531,Baghdadieh,Baghdadieh
+94,597,604,Baghdad,Baghdad
+94,609,614,Swera,Swera
+94,661,670,Ctesiphon,Ctesiphon
+94,692,700,Hudeitha,Hudeitha
+95,50,55,Diala,Diala River
+95,418,423,Egypt,Egypt
+96,354,360,Europe,Europe
+96,442,448,Mossul,Mossul
+96,474,480,Tigris,Tigris
+96,624,630,Vienna,Vienna
+97,309,314,Paris,Paris
+97,342,348,Vienne,Vienna
+99,250,256,Vienna,Vienna
+99,304,309,Egypt,Egypt
+99,553,559,Basreh,Basreh
+100,66,73,Baghdad,Baghdad
+100,77,83,Basreh,Basreh
+100,315,326,Diala river,Diala River
+100,586,592,Jubeil,Jubeil
+100,668,678,Baghdadieh,Baghdadieh
+100,701,708,Azizieh,Azizieh
+101,90,96,Memlah,Memlah
+101,120,129,Aboo Hmar,Aboo Hmar
+101,202,206,Coot,Coot
+101,284,295,Um el Boomy,Um El Boomy
+101,361,367,Basreh,Basreh
+101,627,631,Coot,Coot
+102,139,151,Um el Aroog~,Um El Aroog
+102,271,280,Maghessil,Maghessil
+102,334,344,Ali Gherbi,Ali Gherbi
+102,396,401,Amara,Amara
+102,456,461,Amara,Amara
+102,520,531,Aboo- Sedra,Aboo Sedra
+103,88,93,Amara,Amara
+103,140,145,Elbow,Elbow
+103,188,193,Azair,Azair
+103,211,216,Gorna,Gorna
+103,227,233,Basreh,Basreh
+103,321,327,Basreh,Basreh
+103,340,347,Maaghil,Maghil
+104,178,188,Marseilles,Marseilles
+104,192,198,Basreh,Basreh
+104,610,620,Marseilles,Marseilles
+104,780,787,Baghdad,Baghdad
+104,1405,1411,London,London
+104,1448,1454,Basreh,Basreh
+104,1458,1465,Baghdad,Baghdad
+104,1678,1684,Maghil,Maghil
+105,171,176,Gorna,Gorna
+105,193,198,Azair,Azair
+105,543,551,Constple,Constantinople
+105,687,695,Constple,Constantinople
+105,906,913,Baghdad,Baghdad
+105,1003,1014,Kalat Saleh,Kalat Saleh
+105,1191,1196,Amara,Amara
+105,1320,1325,Amara,Amara
+106,78,83,Amara,Amara
+106,128,138,Ali Gherbi,Ali Gherbi
+106,174,183,Maghessil,Maghessil
+107,65,69,Coot,Coot
+107,217,221,Coot,Coot
+107,307,313,Memlah,Memlah
+107,514,520,Toweel,Towil
+107,741,748,England,England
+107,898,905,Azizieh,Azizieh
+108,111,122,Baghdadieh~,Baghdadieh
+108,144,149,Swera,Swera
+108,183,192,Jwemisseh,Jwemisseh
+108,424,428,Safi,Safi
+108,447,456,Ctesiphon,Ctesiphon
+108,605,614,Ctesiphon,Ctesiphon
+108,674,679,Diala,Diala River
+108,709,718,Gherrarah,Gherrara
+108,749,756,Baghdad,Baghdad
+108,1384,1389,Cairo,Cairo
+108,1404,1410,Vienna,Vienna
+109,738,744,Basreh,Basreh
+112,159,165,Basreh,Basreh
+112,413,419,Vienna,Vienna
+113,100,107,Baghdad,Baghdad
+113,111,117,Basreh,Basreh
+113,372,377,Diala,Diala River
+113,510,516,Persia,Persia
+113,678,684,Basreh,Basreh
+113,741,746,Amara,Amara
+113,919,929,Baghdadieh,Baghdadieh
+113,975,981,Rmelat,Rmelat
+113,1079,1086,Azizieh,Azizieh
+113,1171,1176,Swera,Swera
+113,1309,1315,Zeljeh,Zeljeh
+113,1323,1331,Humenyeh,Humenyeh
+113,1523,1531,Constple,Constantinople
+114,145,151,Zeljeh,Zeljeh
+114,198,204,Memlah,Memlah
+114,266,274,Hamrayah,Hamraya
+114,466,470,Coot,Coot
+114,497,501,Coot,Coot
+114,593,597,Coot,Coot
+114,672,676,Coot,Coot
+114,691,697,Tellow,Tello
+114,817,821,Coot,Coot
+114,898,909,Sheikh Saad,Sheikh Saad
+115,95,106,Sheikh Saad,Sheikh Saad
+115,123,133,Ali Gherbi,Ali Gherbi
+115,160,165,Amara,Amara
+115,306,311,Amara,Amara
+115,370,380,Aboo Sedra,Aboo Sedra
+116,189,195,Nafikh,Nafikh
+116,321,326,Azair,Azair
+116,396,401,Gorna,Gorna
+116,446,452,Basreh,Basreh
+117,36,44,Constple,Constantinople
+117,404,410,Basreh,Basreh
+117,951,957,Basreh,Basreh
+117,961,968,Baghdad,Baghdad
+118,110,115,Azair,Azair
+118,250,255,Amara,Amara
+118,282,289,Baghdad,Baghdad
+118,371,376,Amara,Amara
+118,381,392,Kalat Saleh,Kalat Saleh
+118,433,438,Amara,Amara
+118,746,751,Amara,Amara
+119,150,155,Amara,Amara
+119,193,203,Ali Gherbi,Ali Gherbi
+119,410,421,Sheikh Saad,Sheikh Saad
+119,495,499,Coot,Coot
+120,181,185,Coot,Coot
+120,285,292,Azizieh,Azizieh
+120,355,370,Baghdadieh Fort,Baghdadieh
+120,480,485,Ledje,Ledje
+121,114,123,Ctesiphon,Ctesiphon
+121,144,152,Gusseiba,Gusseiba
+121,345,356,Diala river,Diala River
+121,476,485,Gherrarah,Gherrara
+121,501,508,Baghdad,Baghdad
+121,765,772,Lebanon,Lebanon
+121,1797,1805,Damascus,Damascus
+121,2019,2026,Beyrout,Beyrout
+121,2030,2038,Damascus,Damascus
+121,2106,2112,Bombay,Bombay
+121,2183,2189,Vienne,Vienna
+124,136,141,Paris,Paris
+124,570,575,Paris,Paris
+124,650,656,Basreh,Basreh
+124,734,741,England,England
+124,934,941,Beyrout,Beyrout
+124,990,995,Egypt,Egypt
+125,154,160,Basreh,Basreh
+127,1135,1141,Vienna,Vienna
+128,72,79,Baghdad,Baghdad
+128,83,89,Basreh,Basreh
+128,322,327,Diala,Diala River
+128,344,349,Diala,Diala River
+128,367,376,Cteciphon,Ctesiphon
+128,565,580,Baghdadieh Fort,Baghdadieh
+128,628,635,Azizieh,Azizieh
+128,671,678,Sheresh,Sheresh
+128,770,774,Coot,Coot
+128,825,831,Memlah,Memlah
+129,58,62,Coot,Coot
+129,245,249,Coot,Coot
+129,292,297,Amara,Amara
+129,312,322,Ali Gherbi,Ali Gherbi
+129,408,413,Amara,Amara
+129,555,565,Aboo Sedra,Aboo Sedra
+130,116,121,Amara,Amara
+130,179,185,Basreh,Basreh
+130,217,228,Kalat Saleh,Kalat Saleh
+130,298,303,Azair,Azair
+130,359,364,Gorna,Gorna
+130,403,409,Basreh,Basreh
+130,749,755,London,London
+130,809,819,Marseilles,Marseilles
+130,823,829,Basreh,Basreh
+131,55,61,Basreh,Basreh
+131,933,939,Basreh,Basreh
+131,1499,1505,Basreh,Basreh
+131,1509,1516,Baghdad,Baghdad
+132,283,288,Gorna,Gorna
+132,440,446,Basreh,Basreh
+132,638,650,Philadelphia,Philadelphia
+132,835,840,Amara,Amara
+132,906,912,London,London
+132,959,966,Bushire,Bushire
+132,1036,1042,Basreh,Basreh
+132,1292,1297,Elbow,Elbow
+132,1442,1453,Kalat Saleh,Kalat Saleh
+132,1699,1704,Amara,Amara
+133,40,45,Amara,Amara
+133,157,162,Amara,Amara
+133,299,310,Ali Sherghi,Ali Sherghi
+133,329,334,Amara,Amara
+133,373,383,Ali Gherbi,Ali Gherbi
+133,653,664,Sheikh Saad,Sheikh Saad
+134,79,83,Coot,Coot
+134,413,417,Coot,Coot
+134,490,501,Umel Boomy~,Um El Boomy
+134,523,529,Memlah,Memlah
+134,750,759,Um Sneyem,Um Sneyem
+134,844,850,France,France
+134,913,920,Azizieh,Azizieh
+135,115,125,Baghdadieh,Baghdadieh
+135,169,175,Swerah,Swera
+135,402,415,Bostan Kesreh,Bostan Kesreh
+135,602,611,Ctesiphon,Ctesiphon
+135,633,644,Diala River,Diala River
+135,843,849,Basreh,Basreh
+135,1262,1268,Vienna,Vienna
+135,1322,1327,Cairo,Cairo
+135,1526,1533,Baghdad,Baghdad
+135,1548,1552,Deir,Deir
+135,1557,1565,Damascus,Damascus
+135,1601,1607,Persia,Persia
+136,373,380,Baghdad,Baghdad
+137,569,574,Paris,Paris
+137,598,605,Baghdad,Baghdad
+140,294,301,Baghdad,Baghdad
+140,1064,1070,Basreh,Basreh
+140,1201,1208,Baghdad,Baghdad
+140,1378,1384,Basreh,Basreh
+140,1411,1418,Kurachi,Kurachi
+141,132,139,Baghdad,Baghdad
+141,143,149,Basreh,Basreh
+141,416,427,Diala river,Diala River
+141,831,840,Ctesiphon,Ctesiphon
+141,906,912,Basreh,Basreh
+141,1006,1012,Basreh,Basreh
+141,1095,1110,Baghdadieh Fort,Baghdadieh
+141,1129,1136,Azizieh,Azizieh
+141,1213,1220,Shedief,Shedeif
+141,1435,1440,Paris,Paris
+141,1563,1569,Memlah,Memlah
+141,1642,1646,Coot,Coot
+142,63,67,Coot,Coot
+142,329,339,Ali Gherbi,Ali Gherbi
+142,428,438,Ali Gherbi,Ali Gherbi
+142,529,534,Amara,Amara
+142,675,680,Amara,Amara
+142,769,779,Aboo Sedra,Aboo Sedra
+143,140,145,Elbow,Elbow
+143,194,199,Gorna,Gorna
+144,222,227,Paris,Paris
+144,375,381,Basreh,Basreh
+144,808,814,Basreh,Basreh
+144,1043,1050,Baghdad,Baghdad
+144,1071,1078,Kurachi,Kurachi
+144,1128,1134,France,France
+144,1176,1181,India,India
+144,1184,1189,Egypt,Egypt
+145,214,221,Bahrein,Bahrein
+145,224,231,Bushire,Bushire
+145,608,614,Basreh,Basreh
+145,618,625,Baghdad,Baghdad
+145,762,768,Basreh,Basreh
+146,124,129,Gorna,Gorna
+146,167,172,Gorna,Gorna
+146,314,319,Azair,Azair
+146,376,391,Ghumeyjeh Canal,Ghumeyjeh Canal
+146,570,581,Kalat Saleh,Kalat Saleh
+146,662,668,Basreh,Basreh
+146,926,931,Amara,Amara
+146,1274,1279,Amara,Amara
+146,1492,1497,Amara,Amara
+147,62,73,Ali Sherghi,Ali Sherghi
+147,152,157,Amara,Amara
+147,294,304,Ali Gherbi,Ali Gherbi
+148,84,88,Coot,Coot
+148,443,447,Coot,Coot
+148,491,498,Bughela,Bughela
+148,705,711,Memlah,Memlah
+148,877,884,Shedief,Shedeif
+149,82,89,Shedief,Shedeif
+149,228,235,Azizieh,Azizieh
+149,351,361,Baghdadieh,Baghdadieh
+150,53,65,Temreh reach,Temrah
+150,213,222,Ctesiphon,Ctesiphon
+150,236,247,Diala river,Diala River
+150,289,304,Gherrara Garden,Gherrara Garden
+150,585,591,Vienna,Vienna
+150,874,878,Port,Port
+152,340,346,Mossul,Mossul
+152,376,384,Constple,Constantinople
+154,162,168,Vienna,Vienna
+155,68,75,Baghdad,Baghdad
+155,79,85,Basreh,Basreh
+155,256,263,Baghdad,Baghdad
+155,313,321,Gherrara,Gherrara
+155,346,357,Diala River,Diala River
+155,407,416,Ctesiphon,Ctesiphon
+155,449,454,Swera,Swera
+155,493,503,Baghdadieh,Baghdadieh
+155,587,593,Basreh,Basreh
+155,714,720,Basreh,Basreh
+155,880,887,Azizieh,Azizieh
+155,955,962,Shedief,Shedeif
+155,1086,1090,Coot,Coot
+155,1187,1193,Memlah,Memlah
+155,1245,1257,Um el Ajaji~,Umel Ajaj
+155,1329,1333,Coot,Coot
+156,98,102,Coot,Coot
+156,159,169,Ali Gherbi,Ali Gherbi
+156,320,325,Amara,Amara
+156,405,410,Amara,Amara
+156,624,630,Howeza,Howeza
+156,665,672,Nasryeh,Nasryeh
+156,751,756,Gorna,Gorna
+157,184,194,Aboo Sedra,Aboo Sedra
+157,264,269,Elbow,Elbow
+157,527,532,Elbow,Elbow
+157,673,678,Elbow,Elbow
+158,105,110,Elbow,Elbow
+158,184,189,Azair,Azair
+158,218,232,Hassan Khayoon,Hassan Khayoon
+158,294,299,Azair,Azair
+158,307,313,Hmeyan,Hmeyan
+158,412,417,Gorna,Gorna
+158,599,612,Bunder Abbass,Bunder Abbass
+158,1077,1087,Marseilles,Marseilles
+158,1229,1234,Cairo,Cairo
+158,1265,1274,Port Said,Port Said
+158,1304,1310,Basreh,Basreh
+159,364,371,Baghdad,Baghdad
+159,414,420,Europe,Europe
+159,722,728,Basreh,Basreh
+159,732,739,Baghdad,Baghdad
+159,864,870,Basreh,Basreh
+159,1070,1075,Gorna,Gorna
+160,158,163,Azair,Azair
+160,288,294,Bombay,Bombay
+160,653,664,Kalat Saleh,Kalat Saleh
+160,711,716,Amara,Amara
+160,1443,1447,Coot,Coot
+160,1517,1522,Amara,Amara
+161,124,136,Ali Sherghi~,Ali Sherghi
+161,157,162,Amara,Amara
+161,302,312,Ali Gherbi,Ali Gherbi
+161,365,376,Sheikh Saad,Sheikh Saad
+162,80,84,Coot,Coot
+162,307,313,Memlah,Memlah
+162,478,482,Coot,Coot
+162,540,546,Zeljeh,Zeljeh
+162,770,777,Azizieh,Azizieh
+162,864,874,Baghdadieh,Baghdadieh
+163,149,155,Basreh,Basreh
+163,200,210,Baghdadieh,Baghdadieh
+163,274,283,Ctesiphon,Ctesiphon
+163,342,347,Diala,Diala River
+163,392,399,Baghdad,Baghdad
+163,404,410,Europe,Europe
+163,464,472,Gherrara,Gherrara
+163,495,502,Baghdad,Baghdad
+163,744,750,Vienna,Vienna
+163,820,826,Aleppo,Aleppo
+163,949,958,Port Said,Port Said
+163,1305,1313,Damascus,Damascus
+163,1613,1619,Vienna,Vienna
+163,1640,1644,Lyon,Lyon
+163,1646,1651,Milan,Milan
+163,1653,1659,Venice,Venice
+164,288,293,Azair,Azair
+164,1130,1138,Damascus,Damascus
+164,1141,1148,Palmyra,Palmyra
+164,1151,1155,Deir,Deir
+164,1179,1183,Deir,Deir
+164,1194,1200,Aleppo,Aleppo
+164,1203,1215,Alexandretta,Alexandretta
+164,1219,1227,Constple,Constantinople
+166,294,302,Constple,Constantinople
+168,136,141,Paris,Paris
+168,206,212,Europe,Europe
+168,261,267,Vienna,Vienna
+169,76,83,Baghdad,Baghdad
+169,87,93,Basreh,Basreh
+169,306,311,Diala,Diala River
+169,335,344,Ctesiphon,Ctesiphon
+169,394,404,Baghdadieh,Baghdadieh
+169,648,656,Mahomera,Mahomera
+169,809,815,Raddat,Raddat
+169,833,840,Azizieh,Azizieh
+169,894,900,Memlah,Memlah
+169,942,946,Coot,Coot
+169,1145,1149,Coot,Coot
+169,1311,1317,Basreh,Basreh
+170,88,92,Coot,Coot
+170,130,133,Ali,Ali
+170,163,168,Amara,Amara
+170,252,258,Basreh,Basreh
+170,277,282,Amara,Amara
+170,332,342,Aboo Sedra,Aboo Sedra
+170,413,419,Basreh,Basreh
+171,105,116,Kalat Saleh,Kalat Saleh
+171,145,150,Elbow,Elbow
+171,182,188,Hmeyan,Hmeyan
+171,248,253,Azair,Azair
+171,319,325,Basreh,Basreh
+171,480,485,Gorna,Gorna
+171,529,535,Basreh,Basreh
+171,805,815,Garmat Ali,Garmat Ali
+172,301,307,Bombay,Bombay
+172,671,677,Vienna,Vienna
+172,1054,1060,Bombay,Bombay
+172,1126,1132,Basreh,Basreh
+172,1136,1143,Baghdad,Baghdad
+172,1297,1303,Basreh,Basreh
+172,1404,1410,Maghil,Maghil
+172,1539,1544,Gorna,Gorna
+173,146,151,Azair,Azair
+173,548,554,Basreh,Basreh
+173,617,623,Basreh,Basreh
+173,702,713,Kalat Saleh,Kalat Saleh
+173,760,765,Amara,Amara
+173,958,963,Amara,Amara
+174,150,160,Ali Gherbi,Ali Gherbi
+174,370,374,Coot,Coot
+174,473,477,Coot,Coot
+175,291,297,Memlah,Memlah
+175,365,372,Azizieh,Azizieh
+175,409,419,Baghdadieh,Baghdadieh
+176,173,182,Ctesiphon,Ctesiphon
+176,220,226,Menary,Menary
+176,264,269,Azair,Azair
+176,285,290,Diala,Diala River
+176,385,391,Meshed,Meshed
+176,543,552,Gherrarah,Gherrara
+176,572,577,Amara,Amara
+176,625,634,Gherrarah,Gherrara
+176,1230,1236,Vienna,Vienna
+177,583,595,Aboo Ghureib,Aboo Ghureib
+177,596,605,Felloojeh,Felloojeh
+177,699,705,Mossul,Mossul
+179,400,404,Deir,Deir
+179,523,529,Europe,Europe
+179,534,540,Aleppo,Aleppo
+179,768,775,Moaddem,Moaddem
+180,21,27,Basreh,Basreh
+180,78,85,Baghdad,Baghdad
+180,210,216,Basreh,Basreh
+180,266,272,Mossul,Mossul
+180,287,297,Constanple,Constantinople
+180,302,308,Aleppo,Aleppo
+180,310,314,Urfa,Urfa
+180,316,325,Diarbekir,Diarbekir
+180,328,334,Mossul,Mossul
+180,384,393,Diarbekir,Diarbekir
+180,774,780,Basreh,Basreh
+180,1100,1106,Basreh,Basreh
+180,1407,1414,Baghdad,Baghdad
+180,1519,1527,Kerradah,Kerradah
+181,243,249,Europe,Europe
+181,358,364,Basreh,Basreh
+183,204,210,Vienna,Vienna
+183,238,246,Damascus,Damascus
+183,275,280,Cairo,Cairo
+183,488,494,Vienna,Vienna
+183,666,674,Damascus,Damascus
+183,1058,1063,Paris,Paris
+183,1340,1347,Baghdad,Baghdad
+183,1351,1357,Basreh,Basreh
+183,1476,1483,Baghdad,Baghdad
+183,1530,1538,Gherrara,Gherrara
+183,1556,1561,Diala,Diala River
+183,1585,1594,Ctesiphon,Ctesiphon
+183,1813,1819,Mossul,Mossul
+183,1831,1838,America,America
+183,1888,1893,Azair,Azair
+183,2088,2098,Baghdadieh,Baghdadieh
+184,70,76,Memlah,Memlah
+184,117,121,Mehd,Mehd
+184,250,254,Coot,Coot
+184,437,441,Coot,Coot
+184,483,494,Sheikh Saad,Sheikh Saad
+184,523,533,Ali Gherbi,Ali Gherbi
+184,585,595,Ali Gherbi,Ali Gherbi
+184,634,639,Amara,Amara
+184,720,730,Marseilles,Marseilles
+185,69,74,Amara,Amara
+185,136,141,Elbow,Elbow
+185,255,260,Azair,Azair
+185,500,505,Gorna,Gorna
+185,520,526,Basreh,Basreh
+185,585,591,Maghil,Maghil
+185,662,668,Basreh,Basreh
+185,823,832,Mahomerah,Mahomera
+185,869,874,Ahwaz,Ahwaz
+185,975,980,Ahwaz,Ahwaz
+185,996,1004,Shushter,Shushter
+185,1017,1024,Ispahan,Ispahan
+185,1027,1034,Teheran,Teheran
+185,1169,1175,Basreh,Basreh
+185,1178,1185,Baghdad,Baghdad
+185,1476,1482,Basreh,Basreh
+185,1561,1569,Shadeyeh,Shadeyeh
+186,210,216,Basreh,Basreh
+187,29,35,Basreh,Basreh
+187,124,130,Basreh,Basreh
+187,240,246,Maghil,Maghil
+187,533,540,Bushire,Bushire
+187,700,706,Basreh,Basreh
+187,1079,1085,Basreh,Basreh
+187,1089,1096,Baghdad,Baghdad
+187,1280,1286,Maghil,Maghil
+187,1556,1561,Gorna,Gorna
+188,182,187,Azair,Azair
+188,281,292,Kalat Saleh,Kalat Saleh
+188,301,306,Amara,Amara
+188,412,418,Basreh,Basreh
+188,925,930,Amara,Amara
+188,1018,1023,Amara,Amara
+189,90,100,Ali Gherbi,Ali Gherbi
+189,198,209,Sheikh Saad,Sheikh Saad
+189,268,272,Coot,Coot
+189,322,326,Coot,Coot
+190,65,70,Shady,Shady
+190,136,143,Bughela,Bughela
+190,169,173,Coot,Coot
+190,216,220,Coot,Coot
+190,249,255,Memlah,Memlah
+190,319,323,Umel,Umel
+190,364,370,Memlah,Memlah
+190,472,479,Azizieh,Azizieh
+191,205,214,Ctesiphon,Ctesiphon
+191,310,328,Zumbaranyeh Island,Zumbaranyeh Island
+191,345,350,Diala,Diala River
+191,385,394,Gherrarah,Gherrara
+191,496,503,Baghdad,Baghdad
+191,822,829,Baghdad,Baghdad
+191,847,853,Venice,Venice
+191,944,951,Baghdad,Baghdad
+191,1189,1195,London,London
+191,1781,1788,England,England
+191,1886,1893,Baghdad,Baghdad
+191,2063,2070,Baghdad,Baghdad
+194,244,251,Baghdad,Baghdad
+194,556,562,Basreh,Basreh
+196,115,121,Vienna,Vienna
+196,145,153,Damascus,Damascus
+196,190,196,Basreh,Basreh
+196,238,244,London,London
+196,910,916,Vienna,Vienna
+196,950,957,Baghdad,Baghdad
+196,996,1001,Paris,Paris
+196,1018,1023,Milan,Milan
+196,1025,1030,Turin,Turin
+196,1033,1039,Venice,Venice
+196,1053,1059,Vienna,Vienna
+196,1154,1159,Paris,Paris
+197,297,304,Baghdad,Baghdad
+197,308,314,Basrah,Basreh
+197,490,495,Diala,Diala River
+197,509,518,Ctesiphon,Ctesiphon
+197,648,656,Damascus,Damascus
+197,668,674,Persia,Persia
+197,687,693,Karoon,Karoon
+197,702,710,Shushter,Shushter
+197,834,839,Azair,Azair
+197,958,968,Baghdadieh,Baghdadieh
+197,1043,1050,Azizieh,Azizieh
+197,1210,1217,Baghdad,Baghdad
+197,1322,1328,Memlah,Memlah
+197,1385,1389,Coot,Coot
+198,70,74,Coot,Coot
+198,180,190,Ali Gherbi,Ali Gherbi
+198,255,260,Amara,Amara
+198,438,443,Amara,Amara
+199,98,103,Amara,Amara
+199,123,128,Azair,Azair
+199,156,161,Azair,Azair
+199,222,227,Azair,Azair
+199,352,357,Gorna,Gorna
+199,421,427,Maghil,Maghil
+199,470,476,Basreh,Basreh
+200,134,140,Basreh,Basreh
+201,406,412,Basreh,Basreh
+201,416,423,Baghdad,Baghdad
+201,557,563,Basreh,Basreh
+202,55,60,Amara,Amara
+202,105,110,Gorna,Gorna
+202,243,248,Azair,Azair
+202,315,320,Azair,Azair
+202,531,536,Amara,Amara
+202,561,567,Basreh,Basreh
+202,799,807,K. Saleh,Kalat Saleh
+202,902,907,Amara,Amara
+203,43,48,Amara,Amara
+203,138,143,Amara,Amara
+203,216,227,Ali Sherghi,Ali Sherghi
+203,290,300,Ali Gherbi,Ali Gherbi
+204,54,58,Coot,Coot
+204,212,217,Amara,Amara
+204,235,239,Coot,Coot
+204,400,407,Bughela,Bughela
+204,440,446,Memlah,Memlah
+204,494,501,Shedeif,Shedeif
+204,541,548,Azìzieh,Azizieh
+204,592,602,Baghdadieh,Baghdadieh
+205,42,48,Mossul,Mossul
+205,131,140,Khenasseh,Khemasseh
+205,153,167,Bostani Kesreh,Bostan Kesreh
+205,236,245,Ctesìphon,Ctesiphon
+205,320,331,Diala river,Diala River
+205,512,517,Amara,Amara
+205,789,795,Mossul,Mossul
+206,158,167,Gherrarah,Gherrara
+206,396,402,Europe,Europe
+210,215,221,Vienna,Vienna
+211,92,99,Baghdad,Baghdad
+211,103,109,Basreh,Basreh
+211,292,301,Gherrerah,Gherrara
+211,348,353,Diala,Diala River
+211,369,378,Ctesiphon,Ctesiphon
+211,542,547,Gorna,Gorna
+211,686,696,Baghdadieh,Baghdadieh
+211,763,770,Gutnyeh,Gutnyeh
+211,799,806,Azizieh,Azizieh
+211,860,866,Memlah,Memlah
+211,919,923,Coot,Coot
+211,1043,1052,Port Said,Port Said
+211,1160,1165,Cairo,Cairo
+211,1203,1208,Cairo,Cairo
+211,1212,1219,P. Said,Port Said
+212,36,40,Coot,Coot
+212,144,149,Azair,Azair
+212,206,210,Coot,Coot
+212,297,300,Ali,Ali
+212,447,452,Amara,Amara
+212,607,613,Basreh,Basreh
+212,658,663,Amara,Amara
+212,756,760,Aboo,Aboo
+213,152,163,Kalat Saleh,Kalat Saleh
+213,187,192,Azair,Azair
+213,336,341,Amara,Amara
+213,345,350,Gorna,Gorna
+213,389,395,Basreh,Basreh
+213,1245,1251,London,London
+214,265,270,Cairo,Cairo
+215,906,912,Basreh,Basreh
+215,916,923,Baghdad,Baghdad
+215,1045,1051,Basreh,Basreh
+215,1107,1113,Maghil,Maghil
+215,1483,1488,Gorna,Gorna
+216,136,141,Azair,Azair
+216,279,285,Vienna,Vienna
+216,305,315,Marseilles,Marseilles
+216,531,539,K. Saleh,Kalat Saleh
+216,664,669,Amara,Amara
+216,858,863,Amara,Amara
+217,252,262,Ali Gherbi,Ali Gherbi
+217,366,372,Basreh,Basreh
+217,422,426,Coot,Coot
+217,520,524,Coot,Coot
+218,77,83,Memlah,Memlah
+218,261,276,Baghdadieh Fort,Baghdadieh
+218,323,329,Jubeil,Jubeil
+218,331,342,Dawar reach,Dawar Reach
+218,420,427,Kurachi,Kurachi
+218,431,438,England,England
+218,650,658,Damascus,Damascus
+218,801,806,Paris,Paris
+218,840,845,Paris,Paris
+218,937,943,Vienna,Vienna
+218,1020,1029,Ctesiphon,Ctesiphon
+219,54,59,Diala,Diala River
+219,359,364,Paris,Paris
+219,388,394,Zurich,Zurich
+219,406,415,Innsbrück,Innsbrück
+219,430,436,Vienna,Vienna
+219,470,476,Vienna,Vienna
+219,631,636,Paris,Paris
+221,855,862,Mendeli,Mendeli
+223,368,374,Vienna,Vienna
+223,407,417,Marseilles,Marseilles
+223,476,482,Vienna,Vienna
+224,169,174,Cairo,Cairo
+225,103,110,Baghdad,Baghdad
+225,114,120,Basreh,Basreh
+225,375,386,Diala river,Diala River
+225,439,447,Gusseiba,Gusseiba
+225,464,473,Ctesiphon,Ctesiphon
+225,707,713,Basreh,Basreh
+225,724,728,Coot,Coot
+225,801,805,Coot,Coot
+225,857,867,Baghdadieh,Baghdadieh
+225,1212,1216,Coot,Coot
+225,1337,1351,Constantinople,Constantinople
+225,1480,1487,Azizieh,Azizieh
+225,1598,1604,Memlah,Memlah
+225,1657,1661,Coot,Coot
+226,82,86,Coot,Coot
+226,155,161,Basreh,Basreh
+226,183,192,Aboo Dood,Aboo Dood
+226,284,294,Ali Gherbi,Ali Gherbi
+226,462,466,Coot,Coot
+226,610,617,S. Saad,Sheikh Saad
+226,773,778,Amara,Amara
+226,825,832,Nasryeh,Nasryeh
+226,846,850,Coot,Coot
+226,866,869,Hai,Hai
+226,871,877,Shetra,Shetra
+226,1001,1006,Amara,Amara
+226,1388,1393,Amara,Amara
+226,1420,1430,Aboo Sedra,Aboo Sedra
+227,271,276,Azair,Azair
+227,332,337,Gorna,Gorna
+227,387,393,Basreh,Basreh
+227,460,463,Fâo,Fâo
+227,667,672,Gorna,Gorna
+227,817,822,Tello,Tello
+227,833,840,Nasryeh,Nasryeh
+227,925,931,Bombay,Bombay
+228,351,357,Basrah,Basreh
+228,528,534,Neshwa,Neshwa
+228,733,743,Marseilles,Marseilles
+228,847,853,Basreh,Basreh
+228,950,956,Bombay,Bombay
+229,565,571,Basreh,Basreh
+229,575,582,Baghdad,Baghdad
+229,930,935,Gorna,Gorna
+230,78,85,Zechyeh,Zachyeh
+230,177,182,Azair,Azair
+230,500,507,Baghdad,Baghdad
+230,639,644,Mecca,Mecca
+230,684,689,Elbow,Elbow
+230,761,772,Kalat Saleh,Kalat Saleh
+230,851,857,Basreh,Basreh
+230,1094,1099,Amara,Amara
+230,1272,1277,Amara,Amara
+231,101,106,Amara,Amara
+231,156,167,Ali Gherbi~,Ali Gherbi
+231,293,297,Coot,Coot
+232,123,130,Hamraya,Hamraya
+232,275,280,Mecca,Mecca
+232,352,359,Bughela,Bughela
+232,402,408,Memlah,Memlah
+232,514,521,Azizieh,Azizieh
+232,586,592,Rmelat,Rmelat
+232,651,658,Gutnyeh,Gutnyeh
+232,852,867,Baghdadieh Fort,Baghdadieh
+232,908,913,Swera,Swera
+232,924,929,Dawer,Dawar
+232,1250,1259,Ctesiphon,Ctesiphon
+233,116,121,Diala,Diala River
+233,267,274,Baghdad,Baghdad
+233,662,668,Vienna,Vienna
+233,794,809,Khalenberg hill,Khalenberg Hill
+233,1310,1317,Baghdad,Baghdad
+233,1428,1433,Paris,Paris
+235,160,166,Basreh,Basreh
+237,498,505,Bucknal,Bucknal
+237,655,661,Basreh,Basreh
+238,311,319,Cheshnut,Cheshnut
+239,56,63,Baghdad,Baghdad
+239,67,73,Basreh,Basreh
+239,229,240,Diala river,Diala River
+239,257,266,Ctesiphon,Ctesiphon
+239,354,360,Basreh,Basreh
+239,517,522,Thaji,Thaji
+239,534,549,Baghdadieh Fort,Baghdadieh
+239,616,631,Baghdadieh Fort,Baghdadieh
+239,650,657,Azizieh,Azizieh
+239,728,734,Memlah,Memlah
+239,795,799,Coot,Coot
+240,84,88,Coot,Coot
+240,185,192,Baghdad,Baghdad
+240,220,226,Basreh,Basreh
+240,274,284,Ali Gherbi,Ali Gherbi
+240,400,405,Amara,Amara
+241,93,98,Amara,Amara
+241,181,192,Kalat Saleh,Kalat Saleh
+241,262,267,Azair,Azair
+241,398,403,Gorna,Gorna
+241,489,495,Basreh,Basreh
+241,622,634,Persian Gulf,Persian Gulf
+241,689,695,Vienna,Vienna
+241,700,706,Bombay,Bombay
+241,792,804,Alexandretta,Alexandretta
+241,808,812,Deir,Deir
+241,1298,1303,Hedda,Hedda
+242,800,806,Basreh,Basreh
+243,171,177,Maghil,Maghil
+243,356,362,Basreh,Basreh
+243,366,373,Baghdad,Baghdad
+243,486,492,Basreh,Basreh
+243,763,770,Bushire,Bushire
+243,980,985,Gorna,Gorna
+244,90,95,Azair,Azair
+244,191,202,Kalat Saleh,Kalat Saleh
+244,351,357,Basreh,Basreh
+244,423,430,Bushire,Bushire
+244,490,494,Coot,Coot
+244,508,514,Basreh,Basreh
+244,611,616,Amara,Amara
+244,689,694,Amara,Amara
+244,760,763,Ali,Ali
+245,78,88,Ali Gherbi,Ali Gherbi
+245,219,229,Ali Gherbi,Ali Gherbi
+245,297,301,Coot,Coot
+245,343,347,Coot,Coot
+245,482,486,Coot,Coot
+245,546,557,Um el Ajaj~,Umel Ajaj
+246,92,98,Memlah,Memlah
+246,138,145,Azizieh,Azizieh
+246,186,196,Baghdadieh,Baghdadieh
+246,256,263,Rwebyeh,Rwebyeh
+246,290,296,Bostan,Bostan
+246,340,349,Ctesiphon,Ctesiphon
+246,448,459,Diala river,Diala River
+247,74,81,Baghdad,Baghdad
+247,736,742,Vienna,Vienna
+247,884,890,Vienna,Vienna
+247,923,937,Constantinople,Constantinople
+247,976,984,Cheshnut,Cheshnut
+247,1169,1176,Algeria,Algeria
+247,1194,1205,Constantple,Constantinople
+247,2025,2032,Baghdad,Baghdad
+247,2306,2314,Constple,Constantinople
+247,2579,2584,Yemen,Yemen
+248,641,647,London,London
+249,389,395,Europe,Europe
+250,176,184,Kadumain,Kadumain
+250,599,606,Moaddem,Moaddem
+250,626,634,Kadumain,Kadumain
+250,877,884,Baghdad,Baghdad
+252,389,397,Constple,Constantinople
+252,800,808,Damascus,Damascus
+252,894,900,Basreh,Basreh
+252,946,953,Baghdad,Baghdad
+253,160,167,Baghdad,Baghdad
+253,171,177,Basreh,Basreh
+253,422,428,Basreh,Basreh
+253,525,530,Yemen,Yemen
+253,601,606,Diala,Diala River
+253,624,633,Ctesiphon,Ctesiphon
+253,656,664,Seyafyeh,Seyafyeh
+253,671,677,Temreh,Temrah
+253,834,845,Dawar reach,Dawar Reach
+253,924,930,Bombay,Bombay
+253,1013,1019,Vienna,Vienna
+253,1115,1125,Baghdadieh,Baghdadieh
+253,1232,1239,Azizieh,Azizieh
+253,1559,1565,Memlah,Memlah
+254,104,110,Memlah,Memlah
+254,136,140,Coot,Coot
+254,279,283,Coot,Coot
+254,387,391,Coot,Coot
+254,597,607,Ali Gherbi,Ali Gherbi
+254,643,653,Ali Gherbi,Ali Gherbi
+255,129,134,Amara,Amara
+255,264,269,Amara,Amara
+255,412,417,Amara,Amara
+255,431,442,Kalat Saleh,Kalat Saleh
+255,555,560,Amara,Amara
+255,1178,1183,Amara,Amara
+255,1334,1339,Azair,Azair
+255,1461,1467,Basreh,Basreh
+256,592,598,Basreh,Basreh
+257,342,349,Baghdad,Baghdad
+257,487,492,Cairo,Cairo
+257,513,522,Port Said,Port Said
+257,661,667,Basreh,Basreh
+257,1130,1136,Basreh,Basreh
+257,1140,1147,Baghdad,Baghdad
+257,1261,1267,Basreh,Basreh
+257,1421,1426,Gorna,Gorna
+258,112,119,Zachyeh,Zachyeh
+258,293,299,Basreh,Basreh
+258,387,392,Azair,Azair
+258,476,481,Azair,Azair
+258,609,620,Kalat Saleh,Kalat Saleh
+258,676,682,Basreh,Basreh
+258,751,758,Baghdad,Baghdad
+258,884,895,Canal Mejar,Canal Mejar
+258,903,913,Aboo Sedra,Aboo Sedra
+258,1183,1188,Amara,Amara
+258,1239,1244,Amara,Amara
+259,76,86,Ali Gherbi,Ali Gherbi
+259,175,185,Ali Gherbi,Ali Gherbi
+259,287,291,Coot,Coot
+259,635,639,Coot,Coot
+260,101,108,Hamraya,Hamraya
+260,282,288,Memlah,Memlah
+260,308,312,Coot,Coot
+260,419,430,Han Seniyeh,Han Seniyeh
+260,569,576,Azizieh,Azizieh
+260,718,724,Reddat,Raddat
+260,788,803,Baghdadieh Fort,Baghdadieh
+260,908,916,Constple,Constantinople
+260,996,1009,Place Bayazid,Place Bayazid
+260,1046,1052,Vienna,Vienna
+260,1115,1121,Bostan,Bostan
+261,119,128,Ctesiphon,Ctesiphon
+261,141,152,Diala river,Diala River
+261,446,454,Gherrana,Gherrara
+261,804,810,Vienna,Vienna
+261,945,951,Vienna,Vienna
+264,455,460,Paris,Paris
+264,549,555,Vienna,Vienna
+264,560,565,Paris,Paris
+264,588,593,Paris,Paris
+264,676,681,Paris,Paris
+264,1233,1238,Paris,Paris
+264,1560,1566,Vienna,Vienna
+264,1571,1576,Paris,Paris
+266,242,247,Paris,Paris
+266,314,319,Paris,Paris
+266,380,386,Vienna,Vienna
+266,450,455,Paris,Paris
+266,551,560,Port Saîd,Port Said
+267,104,111,Baghdad,Baghdad
+267,115,121,Basreh,Basreh
+267,283,288,Diala,Diala River
+267,312,321,Ctesiphon,Ctesiphon
+267,441,446,Amara,Amara
+267,481,490,Khemasseh,Khemasseh
+267,597,611,Bagdadieh Fort,Baghdadieh
+267,759,765,Vienna,Vienna
+267,871,878,Azizieh,Azizieh
+267,942,949,Sheresh,Sheresh
+268,104,110,Memlah,Memlah
+268,140,144,Coot,Coot
+268,299,308,Hye Canal,Hye Canal
+268,463,467,Coot,Coot
+268,620,624,Coot,Coot
+268,697,707,Aboo= Dood,Aboo Dood
+269,271,275,Aboo,Aboo
+269,374,384,Ali Gherbi,Ali Gherbi
+269,454,465,Ali Sherghi,Ali Sherghi
+269,634,639,Amara,Amara
+269,890,895,Amara,Amara
+270,184,190,Basreh,Basreh
+270,211,216,Amara,Amara
+270,488,493,Paris,Paris
+270,542,547,Amara,Amara
+270,675,680,Azair,Azair
+270,742,747,Gorna,Gorna
+270,1194,1201,Baghdad,Baghdad
+270,1240,1245,Paris,Paris
+270,1259,1265,Basreh,Basreh
+270,1344,1350,Basreh,Basreh
+270,1370,1375,Paris,Paris
+270,1414,1421,Baghdad,Baghdad
+270,1444,1449,Paris,Paris
+270,1550,1556,Basreh,Basreh
+270,1578,1583,Paris,Paris
+270,1898,1904,Vienna,Vienna
+271,347,352,Paris,Paris
+271,451,457,Bagdad,Baghdad
+271,529,534,Paris,Paris
+271,557,566,Marseille,Marseilles
+271,706,713,Baghdad,Baghdad
+271,1322,1329,Bushire,Bushire
+271,1524,1530,Basreh,Basreh
+271,1534,1541,Baghdad,Baghdad
+272,85,90,Gorna,Gorna
+272,179,184,Azair,Azair
+272,315,324,Ghumeijeh,Ghumeyjeh Canal
+272,350,355,Elbow,Elbow
+272,542,547,Elbow,Elbow
+272,668,676,K. Saleh,Kalat Saleh
+272,957,962,Amara,Amara
+272,1051,1056,Amara,Amara
+273,85,90,Amara,Amara
+100,748,753,Towil,Towil
+100,344,353,Ctesiphon,Ctesiphon
+102,68,75,Baghdad,Baghdad
+104,461,467,Basreh,Basreh
+104,1157,1163,Bombay,Bombay
+105,764,774,Marseilles,Marseilles
+105,839,845,Basreh,Basreh
+105,1086,1098,Persian Gulf,Persian Gulf
+107,405,412,Sheresh,Sheresh
+10,960,968,Damascus,Damascus
+110,181,188,Baghdad,Baghdad
+110,824,830,Basreh,Basreh
+110,738,742,Deir,Deir
+112,635,647,Alexandretta,Alexandretta
+113,69,75,Mossul,Mossul
+113,391,400,Ctesiphon,Ctesiphon
+114,703,706,Hai,Hai
+115,463,474,Kalat Saleh,Kalat Saleh
+116,240,245,Elbow,Elbow
+117,1164,1169,Gorna,Gorna
+119,559,563,Coot,Coot
+120,440,447,Baghdad,Baghdad
+120,59,65,Memlah,Memlah
+121,1464,1472,Constple,Constantinople
+122,84,90,Mossul,Mossul
+124,278,284,Mossul,Mossul
+127,856,864,Damascus,Damascus
+129,523,528,Amara,Amara
+12,392,399,Baghdad,Baghdad
+130,482,488,Mossul,Mossul
+130,255,262,Baghdad,Baghdad
+130,585,594,Mackenzie,Mackenzie
+131,1250,1253,Ali,Ali
+132,360,365,Azair,Azair
+132,1016,1022,Basreh,Basreh
+134,460,467,Baghdad,Baghdad
+135,343,348,Swera,Swera
+135,1193,1201,Damascus,Damascus
+138,298,305,Baghdad,Baghdad
+13,645,649,Aboo,Aboo
+140,1443,1447,Port,Port
+141,1049,1055,Mossul,Mossul
+143,166,171,Azair,Azair
+143,256,262,Basreh,Basreh
+144,350,355,Cairo,Cairo
+144,891,896,Amara,Amara
+144,442,445,Ali,Ali
+145,333,336,Ali,Ali
+147,345,356,Sheikh Saad,Sheikh Saad
+147,190,197,Baghdad,Baghdad
+149,326,333,Gutnyeh,Gutnyeh
+149,297,303,Mossul,Mossul
+155,1217,1224,Baghdad,Baghdad
+156,270,276,Mossul,Mossul
+157,375,379,Port,Port
+158,462,468,Basreh,Basreh
+158,994,999,Paris,Paris
+159,1021,1028,Bahrein,Bahrein
+15,610,618,Damascus,Damascus
+160,555,562,Bahrein,Bahrein
+163,99,105,Mossul,Mossul
+163,1376,1383,Baghdad,Baghdad
+163,1450,1458,Damascus,Damascus
+164,119,125,Mossul,Mossul
+166,383,391,Constple,Constantinople
+166,130,136,Mossul,Mossul
+166,570,577,Baghdad,Baghdad
+166,597,603,Basreh,Basreh
+167,116,122,Mossul,Mossul
+169,281,288,Baghdad,Baghdad
+169,1347,1350,Ali,Ali
+16,937,944,Azizieh,Azizieh
+172,1492,1498,Mossul,Mossul
+172,1325,1332,Baghdad,Baghdad
+172,1003,1006,Ali,Ali
+175,247,251,Coot,Coot
+177,1062,1069,Moaddem,Moaddem
+17,170,176,Mossul,Mossul
+17,503,509,Mossul,Mossul
+180,950,956,Basreh,Basreh
+180,1058,1061,Ali,Ali
+180,1447,1450,Ali,Ali
+183,1682,1688,Mossul,Mossul
+183,568,574,Aleppo,Aleppo
+183,1508,1515,Baghdad,Baghdad
+184,45,52,Azizieh,Azizieh
+187,1220,1226,Basreh,Basreh
+187,944,947,Ali,Ali
+188,246,251,Amara,Amara
+190,619,626,Fort of,Fort Of
+190,275,282,Baghdad,Baghdad
+190,627,637,Baghdadieh,Baghdadieh
+190,412,416,Coot,Coot
+191,1624,1630,Mossul,Mossul
+191,1502,1508,London,London
+191,414,417,Ali,Ali
+194,121,127,Mossul,Mossul
+196,491,499,Damascus,Damascus
+199,279,285,Mossul,Mossul
+199,801,808,Baghdad,Baghdad
+199,306,312,Hmeyan,Hmeyan
+19,621,627,Maghil,Maghil
+19,183,188,Elbow,Elbow
+1,626,634,Damascus,Damascus
+1,228,234,London,London
+201,310,316,Basreh,Basreh
+201,397,404,Bushire,Bushire
+205,410,419,Gherrarah,Gherrara
+205,445,454,Gherrarah,Gherrara
+205,594,600,Mossul,Mossul
+209,216,222,Mossul,Mossul
+20,406,409,Hai,Hai
+20,513,522,Mahomerah,Mahomera
+20,623,632,Mahomerah,Mahomera
+210,44,50,Mossul,Mossul
+213,117,122,Amara,Amara
+214,485,493,Shaebyeh,Shaebyeh
+215,222,227,Darby,Darby
+215,386,391,Darby,Darby
+218,231,238,Azizieh,Azizieh
+218,964,971,Baghdad,Baghdad
+218,134,138,Coot,Coot
+21,762,771,Mahomerah,Mahomera
+223,63,69,Mossul,Mossul
+223,157,163,Mossul,Mossul
+225,691,694,Ali,Ali
+227,151,156,Amara,Amara
+227,247,253,Bombay,Bombay
+229,150,156,Mossul,Mossul
+22,474,481,Hamraya,Hamraya
+22,77,84,Baghdad,Baghdad
+230,407,411,Aboo,Aboo
+231,375,379,Coot,Coot
+233,1687,1693,London,London
+237,152,158,Mossul,Mossul
+238,178,184,Mossul,Mossul
+241,358,365,Baghdad,Baghdad
+241,1025,1032,Baghdad,Baghdad
+241,239,244,Amara,Amara
+242,835,838,Ali,Ali
+243,326,329,Ali,Ali
+245,147,152,Saleh,Saleh
+246,378,384,Mossul,Mossul
+247,3314,3320,Basreh,Basreh
+248,328,335,Baghdad,Baghdad
+248,729,735,London,London
+24,909,915,Mossul,Mossul
+253,1350,1357,Bahrein,Bahrein
+255,1429,1434,Gorna,Gorna
+255,1360,1366,Mossul,Mossul
+258,1071,1075,Aboo,Aboo
+25,647,653,Mossul,Mossul
+260,948,953,Saleh,Saleh
+261,582,588,Mossul,Mossul
+261,92,98,Bostan,Bostan
+264,575,582,Baghdad,Baghdad
+265,300,306,Mossul,Mossul
+265,201,206,Amara,Amara
+26,186,192,Basreh,Basreh
+270,846,852,Basreh,Basreh
+271,1453,1459,Mossul,Mossul
+2,1286,1292,Mossul,Mossul
+2,120,126,Basreh,Basreh
+30,1319,1325,Toweel,Towil
+30,922,931,Mahomerah,Mahomera
+32,216,223,Baghdad,Baghdad
+32,185,189,Coot,Coot
+33,662,668,Mossul,Mossul
+34,1683,1689,Mossul,Mossul
+34,844,850,Aleppo,Aleppo
+34,878,884,Aleppo,Aleppo
+34,1442,1451,Mahomerah,Mahomera
+35,54,59,Gorna,Gorna
+36,487,491,Coot,Coot
+38,85,94,Ctesiphon,Ctesiphon
+38,441,449,Damascus,Damascus
+39,142,148,Mossul,Mossul
+3,186,190,Coot,Coot
+40,100,107,Baghdad,Baghdad
+41,91,97,Mossul,Mossul
+43,711,717,London,London
+44,1187,1193,Basreh,Basreh
+44,1269,1275,Basreh,Basreh
+47,768,774,Kteban,Kteban
+47,379,386,Baghdad,Baghdad
+47,479,486,Baghdad,Baghdad
+47,874,881,Baghdad,Baghdad
+47,162,167,Elbow,Elbow
+48,723,728,Paris,Paris
+49,201,204,Ali,Ali
+51,501,507,Mossul,Mossul
+52,744,751,Azizieh,Azizieh
+52,359,364,Kweit,Kweit
+52,191,197,Mossul,Mossul
+52,562,568,Mossul,Mossul
+53,331,339,Damascus,Damascus
+54,519,527,Damascus,Damascus
+59,935,940,Tellò,Tello
+59,77,84,Baghdad,Baghdad
+5,351,356,Gorna,Gorna
+5,382,389,Baghdad,Baghdad
+61,178,184,Mossul,Mossul
+61,534,543,Mackenzie,Mackenzie
+61,124,129,Elbow,Elbow
+62,392,398,Mossul,Mossul
+62,1070,1076,Mossul,Mossul
+63,106,111,Azair,Azair
+65,461,467,Mossul,Mossul
+66,897,904,Baghdad,Baghdad
+66,1083,1091,Damascus,Damascus
+67,100,106,Mossul,Mossul
+69,141,148,Baghdad,Baghdad
+6,406,413,P. Said,Port Said
+71,140,147,Baghdad,Baghdad
+76,1344,1349,Cairo,Cairo
+76,153,160,Baghdad,Baghdad
+77,148,155,Baghdad,Baghdad
+78,102,107,Gorna,Gorna
+78,121,126,Azair,Azair
+78,404,413,Mahomerah,Mahomera
+78,653,665,Persian Gulf,Persian Gulf
+78,861,867,Bombay,Bombay
+79,410,416,Mossul,Mossul
+7,40,45,Azair,Azair
+82,810,818,Damascus,Damascus
+86,616,623,Azizieh,Azizieh
+86,542,549,Baghdad,Baghdad
+88,93,99,Mossul,Mossul
+89,200,205,Azair,Azair
+8,122,129,Baghdad,Baghdad
+8,349,353,Coot,Coot
+91,365,371,Karoon,Karoon
+91,656,659,Ali,Ali
+94,447,454,Baghdad,Baghdad
+95,135,141,Mossul,Mossul
+96,168,174,Mossul,Mossul
+97,191,197,Mossul,Mossul
+98,90,96,Mossul,Mossul
+98,258,264,Mossul,Mossul
+99,63,69,Mossul,Mossul
+99,369,374,Cairo,Cairo
+99,419,425,Vienna,Vienna
+99,194,202,Damascus,Damascus
+9,326,333,Gutnyeh,Gutnyeh
+247,3213,3229,Berggasse Vienna,Vienna
