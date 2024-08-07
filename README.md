@@ -54,6 +54,15 @@ This folder contains two subfolders:
 
 Note that the results of Cluster+Rank were used in both of the comparisons in Table 4 and Table 8 (in the Appendix).
 
+# Contact
+
+If there are any issues or if you need any clarification, please do not hesitate to contact us :)
+
+Jolie Zhou joliez@uw.edu
+
+Camille Cole clcole5@ilstu.edu
+
+Annie T. Chen atchen@uw.edu
 
 # Citation
 
