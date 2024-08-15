@@ -68,6 +68,25 @@ Annie T. Chen atchen@uw.edu
 
 Please cite the following paper:
 
+```bibtex
+@inproceedings{zhou-etal-2024-basreh,
+    title = "Basreh or Basra? Geoparsing Historical Locations in the Svoboda Diaries",
+    author = "Zhou, Jolie  and
+      Cole, Camille  and
+      Chen, Annie",
+    editor = "Fu, Xiyan  and
+      Fleisig, Eve",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-srw.33",
+    pages = "377--390",
+    abstract = "Geoparsing, the task of assigning coordinates to locations extracted from free text, is invaluable in enabling us to place locations in time and space. In the historical domain, many geoparsing corpora are from large news collections. We examine the Svoboda Diaries, a small historical corpus written primarily in English, with many location names in transliterated Arabic. We develop a pipeline employing named entity recognition for geotagging, and a map-based generate-and-rank approach incorporating candidate name augmentation and clustering of location context words for geocoding. Our system outperforms existing map-based geoparsers in terms of accuracy, lowest mean distance error, and number of locations correctly identified. As location names may vary from those in knowledge bases, we find that augmented candidate generation is instrumental in the system{'}s performance. Among our candidate generation methods, the generation of transliterated names contributed the most to increased location matches in the knowledge base. Our main contribution is proposing an integrated pipeline for geoparsing of historical corpora using augmented candidate location name generation and clustering methods {--} an approach that can be generalized to other texts with foreign or non-standard spellings.",
+}
+```
+
 # License
 
 This work is distributed under an Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license (https://creativecommons.org/licenses/by-nc/4.0/). Users are able to copy and redistribute the material in a non-commercial context, in any medium or form, and remix, transform, and build upon the material as long as they credit the investigator and indicate if changes were made.
